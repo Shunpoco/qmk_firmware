@@ -1,3 +1,7 @@
+## Build
+make omkbd/ergodash:shunpoco:avrdude
+
+
 # ErgoDash
 
 ![ErgoDash](https://github.com/omkbd/picture/blob/master/Ergodash.jpg)
